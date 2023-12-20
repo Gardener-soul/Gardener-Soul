@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGardener-Soul&count_bg=%230E80AE&title_bg=%239020DF&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Gardener_박은수&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
@@ -28,8 +28,18 @@
 </div>
 <hr>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gardener-Soul&show_icons=true&theme=radical" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbypes18" />
+</p>
+
+
+<p align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gardener-Soul&show_icons=true&theme=radical)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbypes18)](https://solved.ac/wbypes18/)
+</div>
 <!--
 **Gardener-soul/Gardener-Soul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
