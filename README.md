@@ -17,7 +17,7 @@
 
 <hr>
 
-<p align="center">Use/Study</p>
+<p align="center">Use / Study / Learn</p>
 <hr>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
@@ -33,13 +33,6 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbypes18" />
 </p>
 
-
-<p align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gardener-Soul&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbypes18)](https://solved.ac/wbypes18/)
-</div>
 <!--
 **Gardener-soul/Gardener-Soul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
